@@ -1,4 +1,4 @@
-.ideal
+.idea/
 **/__pycache__
 datasets/CIFAR10
 datasets/CIFAR100
@@ -6,4 +6,4 @@ datasets/CIFAR100_2
 datasets/MNIST
 datasets/TINYIMG
 datasets/CIFAR10
-result/json/
+result/json/*
